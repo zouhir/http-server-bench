@@ -8,6 +8,7 @@ Playground to measure http servers performance diferences between different fram
 - All servers respond with `hello, world!`.
 - Use [wrk](https://github.com/wg/wrk) benchmark tool (you can get it via homebrew).
 - Use 8 threads and 100 connections for 30 seconds.
+- Always use `--release` flag for Rust servers.
 - No cheating.
 
 ## Results
