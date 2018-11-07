@@ -1,5 +1,7 @@
 # http-server-bench
 
+Playground to measure http servers performance diferences between different frameworks and languages.
+
 ## Rules
 
 - All servers must run on port `1337`.
