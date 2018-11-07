@@ -1,0 +1,8 @@
+[package]
+name = "rust-actix-web"
+version = "0.1.0"
+authors = ["Zouhir <zouhir@zouhir.org>"]
+
+[dependencies]
+actix = "0.7"
+actix-web = "^0.7"
